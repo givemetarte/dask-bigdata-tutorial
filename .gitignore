@@ -131,3 +131,6 @@ dmypy.json
 # data
 data/
 .DS_Store
+rdf-convert.ipynb
+merge-flooding-data.ipynb
+0804-rdf.ipynb

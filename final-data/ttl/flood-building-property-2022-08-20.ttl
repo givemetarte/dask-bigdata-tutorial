@@ -1,0 +1,75 @@
+@prefix kisti: <http://data.kisti.re.kr/flood-damaged-buiding/def/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+kisti:bp1 rdfs:label "관리건축물대장PK" .
+
+kisti:bp10 rdfs:label "새주소법정동코드" .
+
+kisti:bp11 rdfs:label "새주소지상지하코드" .
+
+kisti:bp12 rdfs:label "동명칭" .
+
+kisti:bp13 rdfs:label "대지구분코드" .
+
+kisti:bp14 rdfs:label "관리상위건축물대장PK" .
+
+kisti:bp15 rdfs:label "주택가격" .
+
+kisti:bp16 rdfs:label "생성일자" .
+
+kisti:bp17 rdfs:label "대장종류코드명" .
+
+kisti:bp18 rdfs:label "도로명대지위치" .
+
+kisti:bp19 rdfs:label "대지면적(㎡)" .
+
+kisti:bp2 rdfs:label "PNU" .
+
+kisti:bp20 rdfs:label "건축면적(㎡)" .
+
+kisti:bp21 rdfs:label "건폐율(%)" .
+
+kisti:bp22 rdfs:label "연면적" .
+
+kisti:bp23 rdfs:label "주용도코드명" .
+
+kisti:bp24 rdfs:label "가구수(가구)" .
+
+kisti:bp25 rdfs:label "높이(m)" .
+
+kisti:bp26 rdfs:label "지상층수" .
+
+kisti:bp27 rdfs:label "지하층수" .
+
+kisti:bp28 rdfs:label "사용승인일" .
+
+kisti:bp29 rdfs:label "허가번호기관코드" .
+
+kisti:bp3 rdfs:label "BD_MGT_SN" .
+
+kisti:bp30 rdfs:label "친환경건축물등급" .
+
+kisti:bp31 rdfs:label "친환경건축물인증점수" .
+
+kisti:bp32 rdfs:label "지능형건축물등급" .
+
+kisti:bp33 rdfs:label "지능형건축물인증점수" .
+
+kisti:bp34 rdfs:label "내진설계적용여부" .
+
+kisti:bp35 rdfs:label "내진능력" .
+
+kisti:bp36 rdfs:label "Centroid" .
+
+kisti:bp4 rdfs:label "시군구코드" .
+
+kisti:bp5 rdfs:label "법정동코드" .
+
+kisti:bp6 rdfs:label "번" .
+
+kisti:bp7 rdfs:label "지" .
+
+kisti:bp8 rdfs:label "건물명" .
+
+kisti:bp9 rdfs:label "새주소도로코드" .
+
