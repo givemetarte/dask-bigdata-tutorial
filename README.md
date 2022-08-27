@@ -9,3 +9,5 @@
 
 ## Tutorial 
 - [Dask 사용법](dask-big-data.ipynb)
+
+- [smtp 사용법 Google](https://coding-kindergarten.tistory.com/204)
